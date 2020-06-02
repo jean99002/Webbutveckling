@@ -1,0 +1,42 @@
+
+.info {
+    background-color: #efefef;
+    border-bottom:1px solid #dbdbdb;
+	
+}
+.info h2 {
+    color:#393c3d;
+    font-size: 24px;
+	font-family: 'Shift', sans-serif;
+  	font-weight: bold;
+  	
+}
+.info p {
+    font-size:15px;
+    margin-bottom: 13px;
+
+}
+.info container a{
+	color: #00b0ff;
+
+}
+
+/* tab color */
+.nav-tabs>li>a {
+  background-color: #BEBEBE; 
+  border-color: #777777;
+  color:#fff;
+}
+
+/* active tab color */
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+  color: #fff;
+  background-color: #578A02;
+  border: 1px solid #888888;
+}
+
+/* hover tab color */
+.nav-tabs>li>a:hover {
+  border-color: #000000;
+  background-color: #111111;
+}
